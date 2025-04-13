@@ -109,7 +109,7 @@ If you use this code or the concepts in your research, please cite:
 
 ## Acknowledgments
 
-- Buddhist Digital Resource Center (BDRC) for providing access to Buddhist textual resources
+- Buddhist Digital Resource Center (BDRC) would need to provide access to Buddhist textual resources
 - TensorFlow and related libraries for enabling the implementation of these models
 - Traditional Buddhist lineages for preserving and transmitting the wisdom teachings that inspire this work
 
